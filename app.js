@@ -7,6 +7,6 @@ app.use(bodyparser());
 
 app.use(express.static(__dirname + '/public'));
 
-app.listen(4200, () => {
+app.listen(process.env.PORT, () => {
     console.log('Server On')
 })
