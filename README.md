@@ -2,6 +2,7 @@
  
 <P> As tecnologias usadas para o desenvolvimento desse projeto foram:</p>
 
- - HTML&CSS
+ - HTML
+ - CSS
 <p> <strong> Link do portfólio:<br> </strong>  
 http://laradesign.herokuapp.com/
