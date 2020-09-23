@@ -5,4 +5,4 @@
  - HTML
  - CSS
 <p> <strong> Link do portfólio:<br> </strong>  
--> http://laradesign.herokuapp.com/
+- http://laradesign.herokuapp.com/
